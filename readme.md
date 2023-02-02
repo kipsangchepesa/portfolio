@@ -10,7 +10,7 @@
   -- 
   -->
 
-<h1 align="center">Hi 👋, I'm Jente Rosseel</h1>
+<h1 align="center">Hi 👋, I'm Kipsang Mutai</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
 <h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
@@ -70,7 +70,7 @@
 
 ### Interested ?
 
-📫 Reach me on **jente@elewa.ke**
+📫 Reach me on **ok711223344@gmail.com**
 
 <br />
 
